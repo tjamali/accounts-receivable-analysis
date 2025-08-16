@@ -35,12 +35,3 @@ The project includes several **finance-focused plots**:
 3. **Stacked Aging Buckets Over Time**.
 4. **Business-Code Boxplots** with exposure overlay.
 5. **Interactive DSO Trend** (Plotly).
-
----
-
-## 🛠️ Tech Stack
-- **Python**: Data analysis and visualization
-- **Pandas**: Data cleaning & feature engineering
-- **Matplotlib / Seaborn**: Static finance plots
-- **Plotly Express**: Interactive DSO dashboards
-
